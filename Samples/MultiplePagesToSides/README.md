@@ -1,0 +1,1 @@
+This sample shows how to create single image from multiple pages TIFF File in such a way all images will be stitch side by side 
